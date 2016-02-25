@@ -1,2 +1,1 @@
-# fxos-metrics
 # telemetry-spark
